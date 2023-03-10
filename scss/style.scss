@@ -1,0 +1,17 @@
+// base folder
+@import "base/common";
+@import "base/fonts";
+@import "base/mixins";
+@import "base/variables";
+
+// sections folder
+@import "sections/banner";
+@import "sections/blog";
+@import "sections/footer";
+@import "sections/navbar";
+@import "sections/prices";
+@import "sections/service-1";
+@import "sections/service-2";
+@import "sections/service-3";
+@import "sections/team";
+@import "sections/testimonial";
